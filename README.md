@@ -1,5 +1,5 @@
 # secret_message
-This is a small programming challenge. 
+This was a small programming challenge. 
 
 A friend has hidden my keys. In order to find them, I had to remove the numbers in the provided photos.
 
